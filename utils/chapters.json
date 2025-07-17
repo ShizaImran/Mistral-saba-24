@@ -1,0 +1,45 @@
+{
+  "Chapter 1: Data Representation": [
+    "Binary and Hexadecimal",
+    "Binary Conversion",
+    "Memory Units",
+    "Hexadecimal Applications"
+  ],
+  "Chapter 2: Communication and Internet Technologies": [
+    "Data Transmission Types",
+    "Error Detection Methods",
+    "IP and MAC Addresses",
+    "Web Technologies"
+  ],
+  "Chapter 3: Logic Gates and Circuits": [
+    "Basic Logic Gates",
+    "Truth Tables",
+    "Boolean Expressions",
+    "Logic Circuit Design"
+  ],
+  "Chapter 4: Operating Systems and Architecture": [
+    "Functions of OS and Interrupts",
+    "Fetch-Execute Cycle",
+    "CPU Buses and Registers"
+  ],
+  "Chapter 5: Input and Output Devices": [
+    "Input Devices",
+    "Output Devices",
+    "Device Recommendations"
+  ],
+  "Chapter 6: Memory and Storage": [
+    "Memory vs Storage",
+    "Compression & Formats",
+    "Estimating File Sizes"
+  ],
+  "Chapter 7: Programming Languages": [
+    "High vs Low Level Languages",
+    "Translators",
+    "Programming Errors"
+  ],
+  "Chapter 8: Security, Ethics and Law": [
+    "Security Threats",
+    "Data Protection Methods",
+    "Ethical and Legal Issues"
+  ]
+}

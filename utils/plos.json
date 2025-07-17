@@ -1,0 +1,9 @@
+[
+  { "id": "PLO1", "description": "Apply knowledge of computing fundamentals including binary, denary, and hexadecimal number systems." },
+  { "id": "PLO2", "description": "Analyze logical problems and interpret truth tables and Boolean expressions for digital systems." },
+  { "id": "PLO3", "description": "Design and evaluate basic logic circuits and apply programming-related concepts (e.g., high-/low-level languages, translation, errors)." },
+  { "id": "PLO4", "description": "Understand and explain core computer hardware and software components, including memory, storage, input/output devices, and system architecture." },
+  { "id": "PLO5", "description": "Demonstrate understanding of data transmission methods, communication protocols, and internet technologies." },
+  { "id": "PLO6", "description": "Recognize and explain ethical, legal, and social implications in computing, including security, privacy, and intellectual property." },
+  { "id": "PLO7", "description": "Use appropriate computing tools and error-detection techniques (e.g., parity, checksum) to ensure data integrity and system performance." }
+]

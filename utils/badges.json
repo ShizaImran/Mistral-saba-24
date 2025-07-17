@@ -1,0 +1,32 @@
+[
+  {
+    "id": "first_quiz",
+    "name": "First Quiz Completed",
+    "description": "You've completed your first quiz!",
+    "icon": "🧪"
+  },
+  {
+    "id": "binary_pro",
+    "name": "Binary Pro",
+    "description": "Scored 80%+ on any binary-related topic.",
+    "icon": "💻"
+  },
+  {
+    "id": "streak_3",
+    "name": "3-Day Streak",
+    "description": "Practiced for 3 consecutive days!",
+    "icon": "🔥"
+  },
+  {
+    "id": "resource_reader",
+    "name": "Resource Reader",
+    "description": "Viewed 5 learning resources.",
+    "icon": "📘"
+  },
+  {
+    "id": "quiz_master",
+    "name": "Quiz Master",
+    "description": "Scored 90%+ in 3 quizzes.",
+    "icon": "🏆"
+  }
+]

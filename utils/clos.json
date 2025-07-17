@@ -1,0 +1,66 @@
+[
+ { "id": "CLO1.1",    "chapter": 1,    "description": "Explain the binary and hexadecimal number systems, their structure, and real-world significance." },
+  {
+    "id": "CLO1.2",    "chapter": 1,    "description": "Convert numbers between binary, denary, and hexadecimal using division and positional methods."
+  },
+  {
+    "id": "CLO1.3",    "chapter": 1,    "description": "Understand and compare memory measurement units, including binary and decimal prefixes."
+  },
+  {
+    "id": "CLO1.4",    "chapter": 1,    "description": "Interpret and apply hexadecimal representations in computing contexts such as memory dumps, HTML color codes, and MAC addresses."
+  },
+  {
+    "id": "CLO1.5","chapter": 1,"description": "Analyze storage capacities and memory requirements for various devices and applications."
+  },
+
+  { "id": "CLO2.1", "chapter": 2, "description": "Describe types of data transmission: simplex, duplex, serial, parallel." },
+  { "id": "CLO2.2", "chapter": 2, "description": "Explain error-detection methods (parity, checksum, ARQ, echo check)." },
+  { "id": "CLO2.3", "chapter": 2, "description": "Understand internet communication tools: IP address, MAC address, ISP." },
+  { "id": "CLO2.4", "chapter": 2, "description": "Identify components of web technologies, including HTML, HTTP, browsers." },
+  
+  { "id": "CLO3.1", "chapter": 3, "description": "Identify and describe logic gates (AND, OR, NOT, NAND, NOR, XOR)." },
+  { "id": "CLO3.2", "chapter": 3, "description": "Construct and interpret truth tables for gates and circuits." },
+  { "id": "CLO3.3", "chapter": 3, "description": "Use Boolean expressions to describe logic operations." },
+  { "id": "CLO3.4", "chapter": 3, "description": "Analyze and design simple logic circuits for real-world scenarios." },
+
+ {
+    "id": "CLO4.1",
+    "chapter": 4,
+    "description": "Explain the purpose, functions, and key components of an operating system, including its role as an interface between users and hardware."
+  },
+  {
+    "id": "CLO4.2",
+    "chapter": 4,
+    "description": "Describe how an OS manages processes, scheduling, memory (including virtual memory and protection), and multitasking."
+  },
+  {
+    "id": "CLO4.3",
+    "chapter": 4,
+    "description": "Explain device management in an OS, including the role of drivers, interrupts, buffers, and I/O handling."
+  },
+  {
+    "id": "CLO4.4",
+    "chapter": 4,
+    "description": "Compare different operating system types and user interfaces (CLI vs GUI), and evaluate their use cases, benefits, and limitations."
+  },
+  {
+    "id": "CLO4.5",
+    "chapter": 4,
+    "description": "Describe CPU architecture components and the fetch-decode-execute cycle, including registers, control unit, ALU, and memory hierarchy."
+  },
+  { "id": "CLO5.1", "chapter": 5, "description": "Identify and explain the function of various input devices." },
+  { "id": "CLO5.2", "chapter": 5, "description": "Identify and explain the function of various output devices." },
+  { "id": "CLO5.3", "chapter": 5, "description": "Recommend appropriate input/output devices for specific tasks." },
+
+  { "id": "CLO6.1", "chapter": 6, "description": "Compare types of memory and secondary storage." },
+  { "id": "CLO6.2", "chapter": 6, "description": "Explain file types, compression methods (lossy/lossless), and formats." },
+  { "id": "CLO6.3", "chapter": 6, "description": "Estimate file sizes based on content and format." },
+
+  { "id": "CLO7.1", "chapter": 7, "description": "Differentiate between high-level and low-level programming languages." },
+  { "id": "CLO7.2", "chapter": 7, "description": "Describe the function of translators: compiler, interpreter, assembler." },
+  { "id": "CLO7.3", "chapter": 7, "description": "Identify types of programming errors and their causes." },
+
+  { "id": "CLO8.1", "chapter": 8, "description": "Identify and explain different threats to data security and integrity." },
+  { "id": "CLO8.2", "chapter": 8, "description": "Describe methods of data protection: encryption, firewall, authentication." },
+  { "id": "CLO8.3", "chapter": 8, "description": "Understand ethical and legal issues in computing (e.g., software licensing, hacking)." }
+]

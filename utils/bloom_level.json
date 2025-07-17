@@ -1,0 +1,36 @@
+{
+  "Binary and Hexadecimal": "Understand",
+  "Binary Conversion": "Apply",
+  "Memory Units": "Remember",
+  "Hexadecimal Applications": "Analyze",
+
+  "Data Transmission Types": "Understand",
+  "Error Detection Methods": "Analyze",
+  "IP and MAC Addresses": "Understand",
+  "Web Technologies": "Remember",
+
+  "Basic Logic Gates": "Understand",
+  "Truth Tables": "Apply",
+  "Boolean Expressions": "Analyze",
+  "Logic Circuit Design": "Create",
+
+  "Functions of OS and Interrupts": "Understand",
+  "Fetch-Execute Cycle": "Apply",
+  "CPU Buses and Registers": "Remember",
+
+  "Input Devices": "Understand",
+  "Output Devices": "Understand",
+  "Device Recommendations": "Evaluate",
+
+  "Memory vs Storage": "Analyze",
+  "Compression & Formats": "Understand",
+  "Estimating File Sizes": "Apply",
+
+  "High vs Low Level Languages": "Understand",
+  "Translators": "Understand",
+  "Programming Errors": "Apply",
+
+  "Security Threats": "Understand",
+  "Data Protection Methods": "Apply",
+  "Ethical and Legal Issues": "Evaluate"
+}
