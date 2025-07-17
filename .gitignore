@@ -1,1 +1,2 @@
 ".env\n__pycache__/\n*.pyc\n.streamlit/secrets.toml" 
+"genai-quiz-app-firebase-adminsdk-*.json" 
