@@ -5,3 +5,7 @@ python-dotenv
 openpyxl
 groq
 pandas
+plotly
+huggingface_hub
+faiss-cpu
+httpx
